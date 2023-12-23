@@ -1,23 +1,20 @@
+import React, { useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import TopMenu from './components/TopMenu';
+import SearchResults from './components/SearchResults';
 
-function App() {
+
+
+
+function App({accessToken}) {
+  const [songsFound, setSongsFound] = useState([]);
+ 
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <TopMenu songsFound={songsFound} setSongsFound={setSongsFound} accessToken={accessToken}/>
+      <SearchResults songsFound={songsFound} setSongsFound={setSongsFound} accessToken={accessToken}/>
+
     </div>
   );
 }

@@ -1,0 +1,1782 @@
+{
+    "tracks": {
+        "href": "https://api.spotify.com/v1/search?query=Memory%2520Reboot%2520-%2520Arabic%2520Version&type=track&market=TR&locale=en-US%2Cen%3Bq%3D0.9%2Cru%3Bq%3D0.8%2Cde-DE%3Bq%3D0.7%2Cde%3Bq%3D0.6&offset=0&limit=20",
+        "items": [
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4KRllJ2dEeoqvxOQLOgOsI",
+                            "id": "4KRllJ2dEeoqvxOQLOgOsI",
+                            "name": "VØJ",
+                            "type": "artist",
+                            "uri": "spotify:artist:4KRllJ2dEeoqvxOQLOgOsI"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3QZtwiUoyaXbl1JssMPIQ7",
+                            "id": "3QZtwiUoyaXbl1JssMPIQ7",
+                            "name": "Narvent",
+                            "type": "artist",
+                            "uri": "spotify:artist:3QZtwiUoyaXbl1JssMPIQ7"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5wuGjCF1evpdW9r1y6CHr3"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5wuGjCF1evpdW9r1y6CHr3",
+                    "id": "5wuGjCF1evpdW9r1y6CHr3",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739e045aabfb8a1fa3370dc50d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e029e045aabfb8a1fa3370dc50d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048519e045aabfb8a1fa3370dc50d",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Memory Reboot (Over Slowed)",
+                    "release_date": "2023-01-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:5wuGjCF1evpdW9r1y6CHr3"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4KRllJ2dEeoqvxOQLOgOsI",
+                        "id": "4KRllJ2dEeoqvxOQLOgOsI",
+                        "name": "VØJ",
+                        "type": "artist",
+                        "uri": "spotify:artist:4KRllJ2dEeoqvxOQLOgOsI"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3QZtwiUoyaXbl1JssMPIQ7",
+                        "id": "3QZtwiUoyaXbl1JssMPIQ7",
+                        "name": "Narvent",
+                        "type": "artist",
+                        "uri": "spotify:artist:3QZtwiUoyaXbl1JssMPIQ7"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 282610,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QM4TW2307119"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5qVSAlaXWbGY3Y6gXRxbAM"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5qVSAlaXWbGY3Y6gXRxbAM",
+                "id": "5qVSAlaXWbGY3Y6gXRxbAM",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory Reboot - Over Slowed",
+                "popularity": 68,
+                "preview_url": "https://p.scdn.co/mp3-preview/1a39f3f4530e0952f4bdbda26a9a34d1cdb3ed31?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5qVSAlaXWbGY3Y6gXRxbAM"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4KRllJ2dEeoqvxOQLOgOsI",
+                            "id": "4KRllJ2dEeoqvxOQLOgOsI",
+                            "name": "VØJ",
+                            "type": "artist",
+                            "uri": "spotify:artist:4KRllJ2dEeoqvxOQLOgOsI"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3QZtwiUoyaXbl1JssMPIQ7",
+                            "id": "3QZtwiUoyaXbl1JssMPIQ7",
+                            "name": "Narvent",
+                            "type": "artist",
+                            "uri": "spotify:artist:3QZtwiUoyaXbl1JssMPIQ7"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2zN8DfdYFXi2Ioi3eQeA5k"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2zN8DfdYFXi2Ioi3eQeA5k",
+                    "id": "2zN8DfdYFXi2Ioi3eQeA5k",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730111ad831b18789e535c2052",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020111ad831b18789e535c2052",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510111ad831b18789e535c2052",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Memory Reboot (Slowed)",
+                    "release_date": "2023-01-13",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:2zN8DfdYFXi2Ioi3eQeA5k"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4KRllJ2dEeoqvxOQLOgOsI",
+                        "id": "4KRllJ2dEeoqvxOQLOgOsI",
+                        "name": "VØJ",
+                        "type": "artist",
+                        "uri": "spotify:artist:4KRllJ2dEeoqvxOQLOgOsI"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3QZtwiUoyaXbl1JssMPIQ7",
+                        "id": "3QZtwiUoyaXbl1JssMPIQ7",
+                        "name": "Narvent",
+                        "type": "artist",
+                        "uri": "spotify:artist:3QZtwiUoyaXbl1JssMPIQ7"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 236307,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QM4TW2307112"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4WG3mAQIGHQJalK922wAiG"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4WG3mAQIGHQJalK922wAiG",
+                "id": "4WG3mAQIGHQJalK922wAiG",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory Reboot - Slowed",
+                "popularity": 73,
+                "preview_url": "https://p.scdn.co/mp3-preview/b1252f354d78e717bdd3948167834e014a289a43?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:4WG3mAQIGHQJalK922wAiG"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4KRllJ2dEeoqvxOQLOgOsI",
+                            "id": "4KRllJ2dEeoqvxOQLOgOsI",
+                            "name": "VØJ",
+                            "type": "artist",
+                            "uri": "spotify:artist:4KRllJ2dEeoqvxOQLOgOsI"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3QZtwiUoyaXbl1JssMPIQ7",
+                            "id": "3QZtwiUoyaXbl1JssMPIQ7",
+                            "name": "Narvent",
+                            "type": "artist",
+                            "uri": "spotify:artist:3QZtwiUoyaXbl1JssMPIQ7"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/46Mt99EZGmVa4GFvfQyZLE"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/46Mt99EZGmVa4GFvfQyZLE",
+                    "id": "46Mt99EZGmVa4GFvfQyZLE",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735363758ea122c412176d0174",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025363758ea122c412176d0174",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515363758ea122c412176d0174",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Memory Reboot (Sped Up)",
+                    "release_date": "2023-03-03",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:46Mt99EZGmVa4GFvfQyZLE"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4KRllJ2dEeoqvxOQLOgOsI",
+                        "id": "4KRllJ2dEeoqvxOQLOgOsI",
+                        "name": "VØJ",
+                        "type": "artist",
+                        "uri": "spotify:artist:4KRllJ2dEeoqvxOQLOgOsI"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3QZtwiUoyaXbl1JssMPIQ7",
+                        "id": "3QZtwiUoyaXbl1JssMPIQ7",
+                        "name": "Narvent",
+                        "type": "artist",
+                        "uri": "spotify:artist:3QZtwiUoyaXbl1JssMPIQ7"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 166174,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QM4TX2321499"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7b37OiEonc0KFCf6FB1jos"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7b37OiEonc0KFCf6FB1jos",
+                "id": "7b37OiEonc0KFCf6FB1jos",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory Reboot - Sped Up",
+                "popularity": 60,
+                "preview_url": "https://p.scdn.co/mp3-preview/3bd1161bf14a2f4500054eb712ec4f072b586722?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7b37OiEonc0KFCf6FB1jos"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2kz8ErEfOCprZuWDcFgzSM",
+                            "id": "2kz8ErEfOCprZuWDcFgzSM",
+                            "name": "pandora.",
+                            "type": "artist",
+                            "uri": "spotify:artist:2kz8ErEfOCprZuWDcFgzSM"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Z8DwhVG8qZDFfKsiwetAg"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Z8DwhVG8qZDFfKsiwetAg",
+                            "id": "5Z8DwhVG8qZDFfKsiwetAg",
+                            "name": "YAD Oud",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Z8DwhVG8qZDFfKsiwetAg"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3Yy7wzpyQcUra5R8hMZJer"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3Yy7wzpyQcUra5R8hMZJer",
+                    "id": "3Yy7wzpyQcUra5R8hMZJer",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273f31a52bc9971608b93e44a5c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02f31a52bc9971608b93e44a5c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851f31a52bc9971608b93e44a5c",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Memory Reboot (Arabic Version)",
+                    "release_date": "2023-11-30",
+                    "release_date_precision": "day",
+                    "total_tracks": 2,
+                    "type": "album",
+                    "uri": "spotify:album:3Yy7wzpyQcUra5R8hMZJer"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2kz8ErEfOCprZuWDcFgzSM",
+                        "id": "2kz8ErEfOCprZuWDcFgzSM",
+                        "name": "pandora.",
+                        "type": "artist",
+                        "uri": "spotify:artist:2kz8ErEfOCprZuWDcFgzSM"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Z8DwhVG8qZDFfKsiwetAg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Z8DwhVG8qZDFfKsiwetAg",
+                        "id": "5Z8DwhVG8qZDFfKsiwetAg",
+                        "name": "YAD Oud",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Z8DwhVG8qZDFfKsiwetAg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 86774,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QZZEB2303306"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/71favtOymTRGnuMB2gsZTm"
+                },
+                "href": "https://api.spotify.com/v1/tracks/71favtOymTRGnuMB2gsZTm",
+                "id": "71favtOymTRGnuMB2gsZTm",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory Reboot - Arabic Version",
+                "popularity": 33,
+                "preview_url": "https://p.scdn.co/mp3-preview/cb5e393ecaa9ab5b55594fad00a137439e91a601?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:71favtOymTRGnuMB2gsZTm"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Z8DwhVG8qZDFfKsiwetAg"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Z8DwhVG8qZDFfKsiwetAg",
+                            "id": "5Z8DwhVG8qZDFfKsiwetAg",
+                            "name": "YAD Oud",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Z8DwhVG8qZDFfKsiwetAg"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7IWRFr0ADKKYs6GgTcrgyg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7IWRFr0ADKKYs6GgTcrgyg",
+                    "id": "7IWRFr0ADKKYs6GgTcrgyg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733323036f8b000d8c21b3aad6",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023323036f8b000d8c21b3aad6",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513323036f8b000d8c21b3aad6",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Memory Reboot (Slowed Arabic Version)",
+                    "release_date": "2023-09-17",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:7IWRFr0ADKKYs6GgTcrgyg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Z8DwhVG8qZDFfKsiwetAg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Z8DwhVG8qZDFfKsiwetAg",
+                        "id": "5Z8DwhVG8qZDFfKsiwetAg",
+                        "name": "YAD Oud",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Z8DwhVG8qZDFfKsiwetAg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 315416,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QZTAZ2337476"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6WGHvNuYFszSraHapYhUoG"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6WGHvNuYFszSraHapYhUoG",
+                "id": "6WGHvNuYFszSraHapYhUoG",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory Reboot - Slowed Arabic Version",
+                "popularity": 32,
+                "preview_url": "https://p.scdn.co/mp3-preview/d72edcd07c76652a81dba1b69eae2a3ce8b6d79a?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6WGHvNuYFszSraHapYhUoG"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2kz8ErEfOCprZuWDcFgzSM",
+                            "id": "2kz8ErEfOCprZuWDcFgzSM",
+                            "name": "pandora.",
+                            "type": "artist",
+                            "uri": "spotify:artist:2kz8ErEfOCprZuWDcFgzSM"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5Z8DwhVG8qZDFfKsiwetAg"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5Z8DwhVG8qZDFfKsiwetAg",
+                            "id": "5Z8DwhVG8qZDFfKsiwetAg",
+                            "name": "YAD Oud",
+                            "type": "artist",
+                            "uri": "spotify:artist:5Z8DwhVG8qZDFfKsiwetAg"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3Yy7wzpyQcUra5R8hMZJer"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3Yy7wzpyQcUra5R8hMZJer",
+                    "id": "3Yy7wzpyQcUra5R8hMZJer",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273f31a52bc9971608b93e44a5c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02f31a52bc9971608b93e44a5c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851f31a52bc9971608b93e44a5c",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Memory Reboot (Arabic Version)",
+                    "release_date": "2023-11-30",
+                    "release_date_precision": "day",
+                    "total_tracks": 2,
+                    "type": "album",
+                    "uri": "spotify:album:3Yy7wzpyQcUra5R8hMZJer"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2kz8ErEfOCprZuWDcFgzSM",
+                        "id": "2kz8ErEfOCprZuWDcFgzSM",
+                        "name": "pandora.",
+                        "type": "artist",
+                        "uri": "spotify:artist:2kz8ErEfOCprZuWDcFgzSM"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Z8DwhVG8qZDFfKsiwetAg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Z8DwhVG8qZDFfKsiwetAg",
+                        "id": "5Z8DwhVG8qZDFfKsiwetAg",
+                        "name": "YAD Oud",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Z8DwhVG8qZDFfKsiwetAg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 99942,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QZZEB2303313"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1OCHaxkoVfMIredNtKNmJp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1OCHaxkoVfMIredNtKNmJp",
+                "id": "1OCHaxkoVfMIredNtKNmJp",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory Reboot (Arabic Version) - Slowed & Reverb",
+                "popularity": 36,
+                "preview_url": "https://p.scdn.co/mp3-preview/b8d74c0d7719248409fe5420ac45f813a2d7af63?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:1OCHaxkoVfMIredNtKNmJp"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6rzTjsgzFb8d7OUeuXykAV"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6rzTjsgzFb8d7OUeuXykAV",
+                            "id": "6rzTjsgzFb8d7OUeuXykAV",
+                            "name": "Aesthetic Future",
+                            "type": "artist",
+                            "uri": "spotify:artist:6rzTjsgzFb8d7OUeuXykAV"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4io85I7EmZJLnikeCdtFfq"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/4io85I7EmZJLnikeCdtFfq",
+                    "id": "4io85I7EmZJLnikeCdtFfq",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27387ba791f5534840409920d91",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0287ba791f5534840409920d91",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485187ba791f5534840409920d91",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Memory Reboot",
+                    "release_date": "2023-09-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 3,
+                    "type": "album",
+                    "uri": "spotify:album:4io85I7EmZJLnikeCdtFfq"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6rzTjsgzFb8d7OUeuXykAV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6rzTjsgzFb8d7OUeuXykAV",
+                        "id": "6rzTjsgzFb8d7OUeuXykAV",
+                        "name": "Aesthetic Future",
+                        "type": "artist",
+                        "uri": "spotify:artist:6rzTjsgzFb8d7OUeuXykAV"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 246874,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "GX5MX2355298"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2OazTnbMc54veVJyp1eEsm"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2OazTnbMc54veVJyp1eEsm",
+                "id": "2OazTnbMc54veVJyp1eEsm",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory Reboot - Slowed + Reverb",
+                "popularity": 22,
+                "preview_url": "https://p.scdn.co/mp3-preview/ed6305f3c6c1a0a3da9326870272d651a2aa42fb?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:2OazTnbMc54veVJyp1eEsm"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2kz8ErEfOCprZuWDcFgzSM",
+                            "id": "2kz8ErEfOCprZuWDcFgzSM",
+                            "name": "pandora.",
+                            "type": "artist",
+                            "uri": "spotify:artist:2kz8ErEfOCprZuWDcFgzSM"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7AvcFSTZCBcqx0Uf03lrP8",
+                            "id": "7AvcFSTZCBcqx0Uf03lrP8",
+                            "name": "chillwithme",
+                            "type": "artist",
+                            "uri": "spotify:artist:7AvcFSTZCBcqx0Uf03lrP8"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0CLVTdLvMwJzZtHovVneAC",
+                            "id": "0CLVTdLvMwJzZtHovVneAC",
+                            "name": "cødy",
+                            "type": "artist",
+                            "uri": "spotify:artist:0CLVTdLvMwJzZtHovVneAC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6xQKPI91NbnqszVhxL2KJJ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6xQKPI91NbnqszVhxL2KJJ",
+                    "id": "6xQKPI91NbnqszVhxL2KJJ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27314664b010f2b1e60181ac187",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0214664b010f2b1e60181ac187",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485114664b010f2b1e60181ac187",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Memory Reboot (Ambient)",
+                    "release_date": "2023-09-22",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:6xQKPI91NbnqszVhxL2KJJ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2kz8ErEfOCprZuWDcFgzSM",
+                        "id": "2kz8ErEfOCprZuWDcFgzSM",
+                        "name": "pandora.",
+                        "type": "artist",
+                        "uri": "spotify:artist:2kz8ErEfOCprZuWDcFgzSM"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7AvcFSTZCBcqx0Uf03lrP8",
+                        "id": "7AvcFSTZCBcqx0Uf03lrP8",
+                        "name": "chillwithme",
+                        "type": "artist",
+                        "uri": "spotify:artist:7AvcFSTZCBcqx0Uf03lrP8"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0CLVTdLvMwJzZtHovVneAC",
+                        "id": "0CLVTdLvMwJzZtHovVneAC",
+                        "name": "cødy",
+                        "type": "artist",
+                        "uri": "spotify:artist:0CLVTdLvMwJzZtHovVneAC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 76248,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QZWDE2372864"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0fy1ZPK7CkjWrd8nRIBlTy"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0fy1ZPK7CkjWrd8nRIBlTy",
+                "id": "0fy1ZPK7CkjWrd8nRIBlTy",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory Reboot - Ambient",
+                "popularity": 56,
+                "preview_url": "https://p.scdn.co/mp3-preview/d4c112f04d2d4aee560a17595814e8e172805d69?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0fy1ZPK7CkjWrd8nRIBlTy"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4KRllJ2dEeoqvxOQLOgOsI",
+                            "id": "4KRllJ2dEeoqvxOQLOgOsI",
+                            "name": "VØJ",
+                            "type": "artist",
+                            "uri": "spotify:artist:4KRllJ2dEeoqvxOQLOgOsI"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3QZtwiUoyaXbl1JssMPIQ7",
+                            "id": "3QZtwiUoyaXbl1JssMPIQ7",
+                            "name": "Narvent",
+                            "type": "artist",
+                            "uri": "spotify:artist:3QZtwiUoyaXbl1JssMPIQ7"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/38leU2pvDRxNx2u59BENZb"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/38leU2pvDRxNx2u59BENZb",
+                    "id": "38leU2pvDRxNx2u59BENZb",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738e04b5ec21c60f8745a435e5",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028e04b5ec21c60f8745a435e5",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518e04b5ec21c60f8745a435e5",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Memory Reboot",
+                    "release_date": "2023-09-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 9,
+                    "type": "album",
+                    "uri": "spotify:album:38leU2pvDRxNx2u59BENZb"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4KRllJ2dEeoqvxOQLOgOsI",
+                        "id": "4KRllJ2dEeoqvxOQLOgOsI",
+                        "name": "VØJ",
+                        "type": "artist",
+                        "uri": "spotify:artist:4KRllJ2dEeoqvxOQLOgOsI"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3QZtwiUoyaXbl1JssMPIQ7",
+                        "id": "3QZtwiUoyaXbl1JssMPIQ7",
+                        "name": "Narvent",
+                        "type": "artist",
+                        "uri": "spotify:artist:3QZtwiUoyaXbl1JssMPIQ7"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 282610,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QM4TW2307119"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0g3VYAd032Ba52kgAUNhSX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0g3VYAd032Ba52kgAUNhSX",
+                "id": "0g3VYAd032Ba52kgAUNhSX",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory Reboot - Over Slowed",
+                "popularity": 59,
+                "preview_url": "https://p.scdn.co/mp3-preview/1a39f3f4530e0952f4bdbda26a9a34d1cdb3ed31?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:0g3VYAd032Ba52kgAUNhSX"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/736ac0Aw0btA1C6objGqku"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/736ac0Aw0btA1C6objGqku",
+                            "id": "736ac0Aw0btA1C6objGqku",
+                            "name": "goated.",
+                            "type": "artist",
+                            "uri": "spotify:artist:736ac0Aw0btA1C6objGqku"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0gZ613wiLk2MQCnJgq2NSI"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0gZ613wiLk2MQCnJgq2NSI",
+                    "id": "0gZ613wiLk2MQCnJgq2NSI",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733f8f686fa617c75fa7c6f0b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023f8f686fa617c75fa7c6f0b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513f8f686fa617c75fa7c6f0b4",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Memory Reboot (Piano Version)",
+                    "release_date": "2023-11-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 3,
+                    "type": "album",
+                    "uri": "spotify:album:0gZ613wiLk2MQCnJgq2NSI"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/736ac0Aw0btA1C6objGqku"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/736ac0Aw0btA1C6objGqku",
+                        "id": "736ac0Aw0btA1C6objGqku",
+                        "name": "goated.",
+                        "type": "artist",
+                        "uri": "spotify:artist:736ac0Aw0btA1C6objGqku"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 64250,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "FRDKW2322870"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1eOuPR4HxVduO6d7YsyKvT"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1eOuPR4HxVduO6d7YsyKvT",
+                "id": "1eOuPR4HxVduO6d7YsyKvT",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory Reboot - Piano Version",
+                "popularity": 46,
+                "preview_url": "https://p.scdn.co/mp3-preview/7dc421e0729f7463b7c9b9137c36189d40adae47?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1eOuPR4HxVduO6d7YsyKvT"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7m1q3ADuH8qMAHWcY9la27"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7m1q3ADuH8qMAHWcY9la27",
+                            "id": "7m1q3ADuH8qMAHWcY9la27",
+                            "name": "mista",
+                            "type": "artist",
+                            "uri": "spotify:artist:7m1q3ADuH8qMAHWcY9la27"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0dBeFCBUfCLMy5eYkTzBIV"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0dBeFCBUfCLMy5eYkTzBIV",
+                    "id": "0dBeFCBUfCLMy5eYkTzBIV",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738fc97d9354415c2d880d869d",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028fc97d9354415c2d880d869d",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518fc97d9354415c2d880d869d",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "memory reboot (piano version)",
+                    "release_date": "2023-09-18",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:0dBeFCBUfCLMy5eYkTzBIV"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7m1q3ADuH8qMAHWcY9la27"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7m1q3ADuH8qMAHWcY9la27",
+                        "id": "7m1q3ADuH8qMAHWcY9la27",
+                        "name": "mista",
+                        "type": "artist",
+                        "uri": "spotify:artist:7m1q3ADuH8qMAHWcY9la27"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 100500,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "GX5MX2320648"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7MdkopeZlPz1DmrSzdhiOE"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7MdkopeZlPz1DmrSzdhiOE",
+                "id": "7MdkopeZlPz1DmrSzdhiOE",
+                "is_local": false,
+                "is_playable": true,
+                "name": "memory reboot - piano version",
+                "popularity": 29,
+                "preview_url": "https://p.scdn.co/mp3-preview/0c6f25bd65b55d7f92ea93c46dabb64db6c0c54a?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:7MdkopeZlPz1DmrSzdhiOE"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/197D0NwoUgPyjzksisOqcy",
+                            "id": "197D0NwoUgPyjzksisOqcy",
+                            "name": "dabbackwood",
+                            "type": "artist",
+                            "uri": "spotify:artist:197D0NwoUgPyjzksisOqcy"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7hVGainkllRHwUPAT3zzxQ"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7hVGainkllRHwUPAT3zzxQ",
+                    "id": "7hVGainkllRHwUPAT3zzxQ",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e0bb90b991ed33a557314add",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e0bb90b991ed33a557314add",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851e0bb90b991ed33a557314add",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Bxckwood Shxt",
+                    "release_date": "2023-12-08",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:7hVGainkllRHwUPAT3zzxQ"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/197D0NwoUgPyjzksisOqcy",
+                        "id": "197D0NwoUgPyjzksisOqcy",
+                        "name": "dabbackwood",
+                        "type": "artist",
+                        "uri": "spotify:artist:197D0NwoUgPyjzksisOqcy"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 84017,
+                "explicit": true,
+                "external_ids": {
+                    "isrc": "AEA0Q2363444"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/01ysKa7FElUxcGFRBEHExh"
+                },
+                "href": "https://api.spotify.com/v1/tracks/01ysKa7FElUxcGFRBEHExh",
+                "id": "01ysKa7FElUxcGFRBEHExh",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory",
+                "popularity": 30,
+                "preview_url": "https://p.scdn.co/mp3-preview/750d09e9700df213fe0a45073b2ec230516a55c5?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:01ysKa7FElUxcGFRBEHExh"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/736ac0Aw0btA1C6objGqku"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/736ac0Aw0btA1C6objGqku",
+                            "id": "736ac0Aw0btA1C6objGqku",
+                            "name": "goated.",
+                            "type": "artist",
+                            "uri": "spotify:artist:736ac0Aw0btA1C6objGqku"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0gZ613wiLk2MQCnJgq2NSI"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0gZ613wiLk2MQCnJgq2NSI",
+                    "id": "0gZ613wiLk2MQCnJgq2NSI",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733f8f686fa617c75fa7c6f0b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023f8f686fa617c75fa7c6f0b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513f8f686fa617c75fa7c6f0b4",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Memory Reboot (Piano Version)",
+                    "release_date": "2023-11-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 3,
+                    "type": "album",
+                    "uri": "spotify:album:0gZ613wiLk2MQCnJgq2NSI"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/736ac0Aw0btA1C6objGqku"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/736ac0Aw0btA1C6objGqku",
+                        "id": "736ac0Aw0btA1C6objGqku",
+                        "name": "goated.",
+                        "type": "artist",
+                        "uri": "spotify:artist:736ac0Aw0btA1C6objGqku"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 50014,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "FRDKW2322871"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/09UbMwAihzWbLGJIepDYcr"
+                },
+                "href": "https://api.spotify.com/v1/tracks/09UbMwAihzWbLGJIepDYcr",
+                "id": "09UbMwAihzWbLGJIepDYcr",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory Reboot - Piano Version - Sped Up",
+                "popularity": 17,
+                "preview_url": "https://p.scdn.co/mp3-preview/78698a5e960b516601cda1cf21eaf8864404da1f?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:09UbMwAihzWbLGJIepDYcr"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/736ac0Aw0btA1C6objGqku"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/736ac0Aw0btA1C6objGqku",
+                            "id": "736ac0Aw0btA1C6objGqku",
+                            "name": "goated.",
+                            "type": "artist",
+                            "uri": "spotify:artist:736ac0Aw0btA1C6objGqku"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0gZ613wiLk2MQCnJgq2NSI"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0gZ613wiLk2MQCnJgq2NSI",
+                    "id": "0gZ613wiLk2MQCnJgq2NSI",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733f8f686fa617c75fa7c6f0b4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023f8f686fa617c75fa7c6f0b4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513f8f686fa617c75fa7c6f0b4",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Memory Reboot (Piano Version)",
+                    "release_date": "2023-11-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 3,
+                    "type": "album",
+                    "uri": "spotify:album:0gZ613wiLk2MQCnJgq2NSI"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/736ac0Aw0btA1C6objGqku"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/736ac0Aw0btA1C6objGqku",
+                        "id": "736ac0Aw0btA1C6objGqku",
+                        "name": "goated.",
+                        "type": "artist",
+                        "uri": "spotify:artist:736ac0Aw0btA1C6objGqku"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 75247,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "FRDKW2322872"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5Dd5ZWr1y8e5BwlZ6rXPRa"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5Dd5ZWr1y8e5BwlZ6rXPRa",
+                "id": "5Dd5ZWr1y8e5BwlZ6rXPRa",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory Reboot - Piano Version - Slowed",
+                "popularity": 16,
+                "preview_url": "https://p.scdn.co/mp3-preview/b9f4ece18f3d705f4a5fe8a2e9c5ef8ad7ea60eb?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:5Dd5ZWr1y8e5BwlZ6rXPRa"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4aP1lp10BRYZO658B2NwkG",
+                            "id": "4aP1lp10BRYZO658B2NwkG",
+                            "name": "Andrew Lloyd Webber",
+                            "type": "artist",
+                            "uri": "spotify:artist:4aP1lp10BRYZO658B2NwkG"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5PwgSnrvg48DYvdsf2Y2ZD"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5PwgSnrvg48DYvdsf2Y2ZD",
+                            "id": "5PwgSnrvg48DYvdsf2Y2ZD",
+                            "name": "\"Cats\" 1981 Original London Cast",
+                            "type": "artist",
+                            "uri": "spotify:artist:5PwgSnrvg48DYvdsf2Y2ZD"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/66UrYsmX0lRzAOwLxkPgjl"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/66UrYsmX0lRzAOwLxkPgjl",
+                    "id": "66UrYsmX0lRzAOwLxkPgjl",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b19cc76dbca2a49b2633612c",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b19cc76dbca2a49b2633612c",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b19cc76dbca2a49b2633612c",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Cats (Original London Cast Recording / 1981)",
+                    "release_date": "1981-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 23,
+                    "type": "album",
+                    "uri": "spotify:album:66UrYsmX0lRzAOwLxkPgjl"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4aP1lp10BRYZO658B2NwkG",
+                        "id": "4aP1lp10BRYZO658B2NwkG",
+                        "name": "Andrew Lloyd Webber",
+                        "type": "artist",
+                        "uri": "spotify:artist:4aP1lp10BRYZO658B2NwkG"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5PwgSnrvg48DYvdsf2Y2ZD"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5PwgSnrvg48DYvdsf2Y2ZD",
+                        "id": "5PwgSnrvg48DYvdsf2Y2ZD",
+                        "name": "\"Cats\" 1981 Original London Cast",
+                        "type": "artist",
+                        "uri": "spotify:artist:5PwgSnrvg48DYvdsf2Y2ZD"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7KckozT8XPOqtgJjpAcrnA",
+                        "id": "7KckozT8XPOqtgJjpAcrnA",
+                        "name": "Elaine Paige",
+                        "type": "artist",
+                        "uri": "spotify:artist:7KckozT8XPOqtgJjpAcrnA"
+                    }
+                ],
+                "disc_number": 2,
+                "duration_ms": 315626,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "GBALG8100020"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1pEeWKbTCtRsjtyG9Jxp7L"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1pEeWKbTCtRsjtyG9Jxp7L",
+                "id": "1pEeWKbTCtRsjtyG9Jxp7L",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory",
+                "popularity": 45,
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:1pEeWKbTCtRsjtyG9Jxp7L"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2kz8ErEfOCprZuWDcFgzSM",
+                            "id": "2kz8ErEfOCprZuWDcFgzSM",
+                            "name": "pandora.",
+                            "type": "artist",
+                            "uri": "spotify:artist:2kz8ErEfOCprZuWDcFgzSM"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7AvcFSTZCBcqx0Uf03lrP8",
+                            "id": "7AvcFSTZCBcqx0Uf03lrP8",
+                            "name": "chillwithme",
+                            "type": "artist",
+                            "uri": "spotify:artist:7AvcFSTZCBcqx0Uf03lrP8"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0CLVTdLvMwJzZtHovVneAC",
+                            "id": "0CLVTdLvMwJzZtHovVneAC",
+                            "name": "cødy",
+                            "type": "artist",
+                            "uri": "spotify:artist:0CLVTdLvMwJzZtHovVneAC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1bFIjrKv4hToulRWulUPJX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1bFIjrKv4hToulRWulUPJX",
+                    "id": "1bFIjrKv4hToulRWulUPJX",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27349c2c3d91eec20b6f334a5b3",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0249c2c3d91eec20b6f334a5b3",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485149c2c3d91eec20b6f334a5b3",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Memory Reboot (Slowed & Reverb)",
+                    "release_date": "2023-10-27",
+                    "release_date_precision": "day",
+                    "total_tracks": 3,
+                    "type": "album",
+                    "uri": "spotify:album:1bFIjrKv4hToulRWulUPJX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2kz8ErEfOCprZuWDcFgzSM",
+                        "id": "2kz8ErEfOCprZuWDcFgzSM",
+                        "name": "pandora.",
+                        "type": "artist",
+                        "uri": "spotify:artist:2kz8ErEfOCprZuWDcFgzSM"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7AvcFSTZCBcqx0Uf03lrP8",
+                        "id": "7AvcFSTZCBcqx0Uf03lrP8",
+                        "name": "chillwithme",
+                        "type": "artist",
+                        "uri": "spotify:artist:7AvcFSTZCBcqx0Uf03lrP8"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0CLVTdLvMwJzZtHovVneAC",
+                        "id": "0CLVTdLvMwJzZtHovVneAC",
+                        "name": "cødy",
+                        "type": "artist",
+                        "uri": "spotify:artist:0CLVTdLvMwJzZtHovVneAC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 91498,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QZWDE2372882"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/17MrwAl4gJlYj1jDYotLM0"
+                },
+                "href": "https://api.spotify.com/v1/tracks/17MrwAl4gJlYj1jDYotLM0",
+                "id": "17MrwAl4gJlYj1jDYotLM0",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory Reboot (Ambient) - Super Slowed",
+                "popularity": 35,
+                "preview_url": "https://p.scdn.co/mp3-preview/207b9d403b0b8a698fff2647ba19c7e04395caf6?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:17MrwAl4gJlYj1jDYotLM0"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5HA5aLY3jJV7eimXWkRBBp",
+                            "id": "5HA5aLY3jJV7eimXWkRBBp",
+                            "name": "Epica",
+                            "type": "artist",
+                            "uri": "spotify:artist:5HA5aLY3jJV7eimXWkRBBp"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6JQ2JONNlkY9hbi59wCA3s"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6JQ2JONNlkY9hbi59wCA3s",
+                    "id": "6JQ2JONNlkY9hbi59wCA3s",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735b66795892926da3c05c5ab4",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025b66795892926da3c05c5ab4",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515b66795892926da3c05c5ab4",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "We Will Take You With Us",
+                    "release_date": "2022-09-02",
+                    "release_date_precision": "day",
+                    "total_tracks": 12,
+                    "type": "album",
+                    "uri": "spotify:album:6JQ2JONNlkY9hbi59wCA3s"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5HA5aLY3jJV7eimXWkRBBp",
+                        "id": "5HA5aLY3jJV7eimXWkRBBp",
+                        "name": "Epica",
+                        "type": "artist",
+                        "uri": "spotify:artist:5HA5aLY3jJV7eimXWkRBBp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 277266,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "NLP510600321"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5FtpcCrtJAqSk7O7dH6QA2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5FtpcCrtJAqSk7O7dH6QA2",
+                "id": "5FtpcCrtJAqSk7O7dH6QA2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory - Live Acoustic",
+                "popularity": 30,
+                "preview_url": "https://p.scdn.co/mp3-preview/f1ea585747b20abcdd0e1d445db2399312657275?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:5FtpcCrtJAqSk7O7dH6QA2"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4kZOImW1wQCQeLKod9XlQM"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4kZOImW1wQCQeLKod9XlQM",
+                            "id": "4kZOImW1wQCQeLKod9XlQM",
+                            "name": "Retro Starkey",
+                            "type": "artist",
+                            "uri": "spotify:artist:4kZOImW1wQCQeLKod9XlQM"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1LWnPyRFz50aoqVU9S3T4p"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1LWnPyRFz50aoqVU9S3T4p",
+                    "id": "1LWnPyRFz50aoqVU9S3T4p",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273517d2ce6054ea3b44b334aa8",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02517d2ce6054ea3b44b334aa8",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851517d2ce6054ea3b44b334aa8",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "918",
+                    "release_date": "2023-10-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:1LWnPyRFz50aoqVU9S3T4p"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4kZOImW1wQCQeLKod9XlQM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4kZOImW1wQCQeLKod9XlQM",
+                        "id": "4kZOImW1wQCQeLKod9XlQM",
+                        "name": "Retro Starkey",
+                        "type": "artist",
+                        "uri": "spotify:artist:4kZOImW1wQCQeLKod9XlQM"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 213975,
+                "explicit": true,
+                "external_ids": {
+                    "isrc": "QZDA72235186"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/04ofdXEH9bv2g5OtKNBc7e"
+                },
+                "href": "https://api.spotify.com/v1/tracks/04ofdXEH9bv2g5OtKNBc7e",
+                "id": "04ofdXEH9bv2g5OtKNBc7e",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory",
+                "popularity": 25,
+                "preview_url": "https://p.scdn.co/mp3-preview/b7a642629a6ac824c5a430c08aa35fd4e09ef85e?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:04ofdXEH9bv2g5OtKNBc7e"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/656DEjf8bYlGw2DqBj28qz"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/656DEjf8bYlGw2DqBj28qz",
+                            "id": "656DEjf8bYlGw2DqBj28qz",
+                            "name": "Danilo Stankovic",
+                            "type": "artist",
+                            "uri": "spotify:artist:656DEjf8bYlGw2DqBj28qz"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6drwsG0RvJaxNUS0oIz1c4"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6drwsG0RvJaxNUS0oIz1c4",
+                    "id": "6drwsG0RvJaxNUS0oIz1c4",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731803b8c5f16752bd6995ff62",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e021803b8c5f16752bd6995ff62",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048511803b8c5f16752bd6995ff62",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Evoke",
+                    "release_date": "2021-05-14",
+                    "release_date_precision": "day",
+                    "total_tracks": 6,
+                    "type": "album",
+                    "uri": "spotify:album:6drwsG0RvJaxNUS0oIz1c4"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/656DEjf8bYlGw2DqBj28qz"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/656DEjf8bYlGw2DqBj28qz",
+                        "id": "656DEjf8bYlGw2DqBj28qz",
+                        "name": "Danilo Stankovic",
+                        "type": "artist",
+                        "uri": "spotify:artist:656DEjf8bYlGw2DqBj28qz"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 101610,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QZAKB2122378"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/05XrLV7sHV3UXMu8RFVfEB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/05XrLV7sHV3UXMu8RFVfEB",
+                "id": "05XrLV7sHV3UXMu8RFVfEB",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory",
+                "popularity": 40,
+                "preview_url": "https://p.scdn.co/mp3-preview/cefbcb3e7d821e1bbc393f61770b0fb0868d8afc?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:05XrLV7sHV3UXMu8RFVfEB"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0fAjDk3kEfJMCATHfabPJP"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0fAjDk3kEfJMCATHfabPJP",
+                            "id": "0fAjDk3kEfJMCATHfabPJP",
+                            "name": "Dj Ares",
+                            "type": "artist",
+                            "uri": "spotify:artist:0fAjDk3kEfJMCATHfabPJP"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3H5TeL94qLFQXjl1U9tz0J"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3H5TeL94qLFQXjl1U9tz0J",
+                    "id": "3H5TeL94qLFQXjl1U9tz0J",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27373a94b3498d4e5a25da66b4f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0273a94b3498d4e5a25da66b4f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485173a94b3498d4e5a25da66b4f",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Marry Me (Radio Edit)",
+                    "release_date": "2023-10-06",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:3H5TeL94qLFQXjl1U9tz0J"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0fAjDk3kEfJMCATHfabPJP"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0fAjDk3kEfJMCATHfabPJP",
+                        "id": "0fAjDk3kEfJMCATHfabPJP",
+                        "name": "Dj Ares",
+                        "type": "artist",
+                        "uri": "spotify:artist:0fAjDk3kEfJMCATHfabPJP"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 164362,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QMFME2328595"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7FIWf5dP4UKEteiu4v44DV"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7FIWf5dP4UKEteiu4v44DV",
+                "id": "7FIWf5dP4UKEteiu4v44DV",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memory - Radio Edit",
+                "popularity": 15,
+                "preview_url": "https://p.scdn.co/mp3-preview/c1b2abf7710098acf247dd186dc9408362378a90?cid=3f010a077e1a41d8befa139e735b1a77",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:7FIWf5dP4UKEteiu4v44DV"
+            }
+        ],
+        "limit": 20,
+        "next": "https://api.spotify.com/v1/search?query=Memory%2520Reboot%2520-%2520Arabic%2520Version&type=track&market=TR&locale=en-US%2Cen%3Bq%3D0.9%2Cru%3Bq%3D0.8%2Cde-DE%3Bq%3D0.7%2Cde%3Bq%3D0.6&offset=20&limit=20",
+        "offset": 0,
+        "previous": null,
+        "total": 646
+    }
+}
