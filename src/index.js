@@ -1,19 +1,11 @@
-import React, { useState } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { AuthOnLoad } from './components/subcomponents/authorize';
 
-
-let accessToken = undefined;
-let intervalId = undefined;
-let tokenTime = undefined;
-
-const setAccessToken = newValue => accessToken = newValue;
-const setIntervalId = newIntervalId => intervalId = newIntervalId;
-
-window.onload = AuthOnLoad(setAccessToken);
+window.onload = AuthOnLoad();
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

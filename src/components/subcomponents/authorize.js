@@ -1,37 +1,6 @@
 import Cookies from 'js-cookie';
 
-
-export default function Authorize(event) {
-    event.preventDefault()
-    const client_id = process.env.REACT_APP_CLIENT_ID;
-    const redirect_uri = "http://localhost:3000/";
-
-    let url = 'https://accounts.spotify.com/authorize';
-    url += '?response_type=token';
-    url += '&client_id=' + encodeURIComponent(client_id);
-    url += '&redirect_uri=' + encodeURIComponent(redirect_uri);
-
-    // Redirect the user
-    window.location.href = url;
-
-    const hash = window.location.hash.substring(1);
-    let params = new URLSearchParams(hash);
-
-    const accessToken = params.get('access_token');
-
-
-
-    if (accessToken) {
-        return accessToken;
-    } else {
-        params = new URLSearchParams(window.location.search);
-        const error = params.get('error');
-        alert('Authorization failed. Error message: ${error}')
-    }
-}
-
-
-export function AuthOnLoad(setAccessToken) {
+export function AuthOnLoad() {
 
     let newAccessToken = undefined;
     let newTimer = undefined;
@@ -39,9 +8,9 @@ export function AuthOnLoad(setAccessToken) {
     let newIntervalId = undefined;
 
     function tokenExpiryReset() {
-        setAccessToken(undefined);
+        
         alert('Access Token expired. Re-authentication required!')
-        AuthOnLoad(setAccessToken);
+        AuthOnLoad();
     }
 
     let accessToken = Cookies.get('JammmerToken');
@@ -66,7 +35,7 @@ export function AuthOnLoad(setAccessToken) {
             Cookies.set('JammmerToken', newAccessToken, { expires: newTimer / (24 * 60 * 60) });
 
             //send the token to the main app enviroment so it could propogate as props to the rest of modules
-            setAccessToken(newAccessToken);
+            
             console.log(newAccessToken);
 
             //set timer for re-authorization everytime the token is expired:

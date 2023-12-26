@@ -1,13 +1,9 @@
 import React, { useEffect, useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import TopMenu from './components/TopMenu';
 import SearchResults from './components/SearchResults';
-import Cookies from "js-cookie";
 
-
-
-function App({accessToken}) {
+function App() {
   const [songsFound, setSongsFound] = useState([]);
   
   useEffect(()=>{
