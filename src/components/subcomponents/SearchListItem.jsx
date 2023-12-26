@@ -1,11 +1,15 @@
-import React from "react";
+import React, { useEffect } from "react";
 import styles from "./SearchListItem.module.css"
 
 export default function SearchListItem(props) {
+    useEffect(()=>{
+        localStorage.setItem('savedNewPlaylist', JSON.stringify(props.newPlaylist));
+    },[props.newPlaylist]); 
+    
     function handleClick() {
 
         if (props.add) {
-            props.setNewPlaylist((curList) => {
+             props.setNewPlaylist((curList) => {
                 return ([
                     ...curList,
                     {
@@ -15,9 +19,10 @@ export default function SearchListItem(props) {
                         id: [props.songId]
                     }
                 ])
-            })
+            });
+            
         } else {
-            props.setNewPlaylist((curList) => {
+             props.setNewPlaylist((curList) => {
                 return (
                     curList.filter((song) => {
                         return (
@@ -25,10 +30,8 @@ export default function SearchListItem(props) {
                         )
                     })
                 )
-            })
+            });
         }
-
-        console.log(props.newPlaylist);
     }
 
     return (

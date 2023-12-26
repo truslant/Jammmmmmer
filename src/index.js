@@ -1,18 +1,24 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import {AuthOnLoad} from './components/subcomponents/authorize'
+import { AuthOnLoad } from './components/subcomponents/authorize';
+
 
 let accessToken = undefined;
-  window.onload = AuthOnLoad(newValue => accessToken = newValue, accessToken);
+let intervalId = undefined;
+let tokenTime = undefined;
 
+const setAccessToken = newValue => accessToken = newValue;
+const setIntervalId = newIntervalId => intervalId = newIntervalId;
+
+window.onload = AuthOnLoad(setAccessToken);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App accessToken={accessToken}/>
+    <App />
   </React.StrictMode>
 );
 

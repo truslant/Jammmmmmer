@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import styles from "./SearchResults.module.css";
 import SearchListItem from "./subcomponents/SearchListItem";
 import SavePlaylistInput from "./subcomponents/SavePlaylistInput";
@@ -9,10 +9,12 @@ export default function SearchResults(props) {
     const [newPlaylist, setNewPlaylist] = useState([]);
     const [playlistName, setPlaylistName] = useState()
     
-    function handleClick (){
+    useEffect(()=>{
+        const savedNewPlaylist = JSON.parse(localStorage.getItem('savedNewPlaylist'));
+        console.log(savedNewPlaylist);
+        setNewPlaylist(savedNewPlaylist);
+    },[]);
 
-    }
-    
     return (
         <main className={styles.listSection}>
             <section className={styles.list}>
@@ -27,7 +29,7 @@ export default function SearchResults(props) {
                     return <SearchListItem key={song.id} title={song.name} artist={song.artist} album={song.album} songId={song.id} newPlaylist={newPlaylist} setNewPlaylist={setNewPlaylist} />
                 })}
 
-                {newPlaylist.length > 0 && <SavePlaylistInput playlistName={playlistName} setPlaylistName={setPlaylistName} newPlaylist={newPlaylist} setNewPlaylist={setNewPlaylist} accessToken={props.accessToken}/>}
+                {newPlaylist.length > 0 && <SavePlaylistInput playlistName={playlistName} setPlaylistName={setPlaylistName} newPlaylist={newPlaylist} setNewPlaylist={setNewPlaylist} />}
 
             </section>
         </main>

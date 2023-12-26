@@ -1,8 +1,10 @@
 import React from "react";
 import styles from "./SavePlaylistInput.module.css";
+import Cookies from "js-cookie";
 
 export default function SavePlaylistInput(props) {
 
+    let accessToken = Cookies.get('JammmerToken');
 
     function handleChange(event) {
         props.setPlaylistName(event.target.value);
@@ -14,7 +16,7 @@ export default function SavePlaylistInput(props) {
             let response = await fetch(url, {
                 method: 'POST',
                 headers: {
-                    "Authorization": `Bearer ${props.accessToken}`,
+                    "Authorization": `Bearer ${accessToken}`,
                     "Content-Type": "application/json"
                 },
                 body: JSON.stringify({
@@ -46,7 +48,7 @@ export default function SavePlaylistInput(props) {
             const response = await fetch(url, {
                 method: 'GET',
                 headers: {
-                    "Authorization": `Bearer ${props.accessToken}`
+                    "Authorization": `Bearer ${accessToken}`
                 }
             });
             if (response.ok) {
@@ -66,7 +68,7 @@ export default function SavePlaylistInput(props) {
                 const response = await fetch(url, {
                     method: 'POST',
                     headers: {
-                        "Authorization": `Bearer ${props.accessToken}`,
+                        "Authorization": `Bearer ${accessToken}`,
                         "Content-Type": "application/json"
                     },
                     body: JSON.stringify({

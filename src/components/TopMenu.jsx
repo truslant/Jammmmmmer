@@ -1,10 +1,13 @@
 import React, { useState } from "react";
 import styles from "./TopMenu.module.css"
 import Authorize from "./subcomponents/authorize.js"
+import Cookies from "js-cookie";
 
 export default function TopMenu(props) {
 
   const [searchQuery, setSearchQuery] = useState('');
+  
+  let accessToken = Cookies.get('JammmerToken');
 
   function handleChange(event) {
     setSearchQuery(event.target.value);
@@ -14,22 +17,24 @@ export default function TopMenu(props) {
 
     event.preventDefault();
 
+    //put together url for track search via Spotify API
     let url = 'https://api.spotify.com/v1/search?q=';
     url += encodeURIComponent(searchQuery);
     url += '&type=track&market=TR';
     console.log(url);
 
     try {
+      // send track search request to Spotify API
       const response = await fetch(url, {
         method: "GET",
         headers: {
-          "Authorization": `Bearer ${props.accessToken}`
+          "Authorization": `Bearer ${accessToken}`
         }
       });
       if (response.ok) {
 
         const searchResult = await response.json();
-        console.log(searchResult);
+        // console.log(searchResult);
 
         const newTracks = searchResult.tracks.items.map((item) => {
 
@@ -61,7 +66,11 @@ export default function TopMenu(props) {
         });
         
         props.setSongsFound(newTracks);
+        // console.log(props.songsFound);
+        localStorage.setItem('savedSearchQuery', JSON.stringify(newTracks));
 
+        // console.log(JSON.parse(localStorage.getItem('savedSearchQuery')));
+        //Cookies.set('JammmerToken', newAccessToken, { expires: newTimer / (24 * 60 * 60) });
       } else {
         throw new Error ('Request to retreive records has failed!');
       }
